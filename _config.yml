@@ -6,7 +6,7 @@ description: Jekyll Theme Minimal Resume
 
 # User settings
 username: Hadileonard
-user_description: This website's purpose is for me to fully implement a CI/CD pipeline utilizing AWS. After recently earning my GCP Associate Cloud Engineer certification from Google, I decided to build a simple website that employs a full CI/CD pipeline, with a unique twist—I will do it on AWS.
+user_description: This website's purpose is for me to fully implement a CI/CD pipeline utilizing AWS. After recently earning my GCP Associate Cloud Engineer certification from Google, I decided to build a simple website that employs a full CI/CD pipeline, with a little twist, I will do it on AWS.
 user_title: Software Developer
 email: hadileonardd@gmail.com
 twitter_username: panhellenics
